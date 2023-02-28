@@ -1,2 +1,3 @@
 # Telco-Churn
-Some Machine Learning Project using the Telco Churn Data
+
+This is the first project I collaborate with [Mthulisi Mlilo](https://github.com/MthulisiMlilo)  on the Telco Churn data, it starts with some description of the Telco Churn Data, data cleaning, pre-processing and some basic introductory Machine Learning application to the data. 
